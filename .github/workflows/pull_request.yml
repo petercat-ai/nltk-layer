@@ -8,8 +8,8 @@ on:
 
 env:
   AWS_REGION: ap-northeast-1
-  ECR_REGISTRY: https://gallery.ecr.aws/m5s2b0d4
   ECR_REPOSITORY: petercat
+  ECR_REGISTRY: gallery.ecr.aws/
 
 permissions:
   id-token: write # This is required for requesting the JWT
