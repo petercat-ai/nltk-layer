@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: petercat
+  ECR_REPOSITORY: nltk_lambda_layer
   ECR_REGISTRY: public.ecr.aws/m5s2b0d4
 
 permissions:
