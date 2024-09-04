@@ -1,5 +1,7 @@
 # Lambda Layer for Python NLTK Package
 
+ [![DockerHub Version](https://img.shields.io/docker/v/petercatai/nltk-layer?logo=docker&logoColor=white)](https://hub.docker.com/r/petercatai/nltk-layer)
+
 Lambda layer to enable using the famous NLTK Python package with Lambda.
 
 Credit to [customink/lambda-python-nltk-layer](https://github.com/customink/lambda-python-nltk-layer).
